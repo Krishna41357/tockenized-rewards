@@ -6,6 +6,12 @@ The Aptos Course Rewards Platform is a decentralized application (dApp) that all
 ## Vision
 Our vision is to create a decentralized learning ecosystem where students can earn verifiable blockchain-based rewards for their learning achievements. By using blockchain, we ensure transparency, immutability, and security in the reward system.
 
+## Tech Stack of this full stack project
+ Frontend -- React
+ Smart contract backend -- Aptos / Move
+ Server -- Express/Node
+ 
+
 ## Future Scope
 - **NFT-based Achievements:** Upgrade the reward system to issue soulbound NFTs representing course completion.
 - **Multi-Blockchain Support:** Expand the platform to support other blockchain networks.
